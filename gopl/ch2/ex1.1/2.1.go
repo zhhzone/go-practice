@@ -1,8 +1,8 @@
 package main
 
 import (
-	tempconv "./tempconv"
 	"fmt"
+	"github.com/zhhzone/go-practice/gopl/ch2/ex1.1/tempconv"
 )
 
 func main() {
